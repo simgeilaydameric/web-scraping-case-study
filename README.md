@@ -1,4 +1,4 @@
-# Project Title
+# Web Scraping Case Study
 
 A Python program for web scraping, MongoDB interaction, data analysis, and statistics collection.
 
