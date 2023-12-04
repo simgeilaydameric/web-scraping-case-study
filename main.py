@@ -261,7 +261,7 @@ def main():
         client, db = connect_to_mongodb()
 
         # Set the total number of pages to scrape
-        total_pages = 10
+        total_pages = 50
 
         # Scrape and store data, and obtain counts for success, failure, and total processed items
         success_count, fail_count, total_count = scrape_and_store_data(db, total_pages)
