@@ -61,7 +61,7 @@ This Python script performs various operations such as scraping news articles fr
 
 - The word frequency analysis results are stored in MongoDB.
 - Bar charts for the top 10 most used words can be found in the project directory (`barchart.png`).  
-![Bar Chart](barchart.png)
+![Bar Chart](https://github.com/simgeilaydameric/web-scraping-case-study/blob/main/assets/barchart.png)
 - Log information is available in the `logs.log` file.
 
 ## Important Notes
